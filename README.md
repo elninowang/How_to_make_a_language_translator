@@ -1,5 +1,5 @@
-# How_to_make_a_language_translator
-This is the code for "How to Make a Language Translator - Intro to Deep Learning #11' by Siraj Raval on YouTube
+# 如何开发语言翻译程序
+何开发语言翻译程序 - Siraj Raval 在Youtube上的深度学习课程11
 
 # Coding Challenge - Due Date Thursday March 30th at 12 PM PST
 
